@@ -4,3 +4,4 @@ seaborn
 matplotlib
 scikit-learn
 numpy
+random_forest_manual==0.1
